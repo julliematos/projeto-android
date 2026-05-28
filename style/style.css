@@ -133,7 +133,7 @@ main img{
  div.video{
     background-color: var(--cor5);
     margin: 0px -20px 30px -30px;
-    padding: 20px;
+    padding:20px;
     padding-bottom: 58.2%;
     position: relative;
  }
